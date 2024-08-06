@@ -1,0 +1,6 @@
+[submodule "sxr-backend"]
+	path = sxr-backend
+	url = git@github.com:adrian1703/sxr-backend.git
+[submodule "sxr-frontend"]
+	path = sxr-frontend
+	url = git@github.com:adrian1703/sxr-frontend.git
