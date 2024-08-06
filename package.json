@@ -1,0 +1,16 @@
+{
+  "name": "sxr-monorepo",
+  "private": true,
+  "workspaces": [
+    "sxr-backend",
+    "sxr-frontend"
+  ],
+  "scripts": {
+    "start:backend": "cd sxr-backend && ./mvnw spring-boot:run",
+    "start:frontend": "cd sxr-frontend && npm start",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.0"
+  }
+}

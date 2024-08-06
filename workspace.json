@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "backend": {
+      "root": "sxr-backend",
+      "sourceRoot": "sxr-backend/src",
+      "projectType": "application"
+    },
+    "frontend": {
+      "root": "sxr-frontend",
+      "sourceRoot": "sxr-frontend/src",
+      "projectType": "application"
+    }
+  }
+}
