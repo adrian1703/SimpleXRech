@@ -7,3 +7,6 @@
 [submodule "sxr-resourceparser"]
 	path = sxr-resourceparser
 	url = git@github.com:adrian1703/sxr-resourceparser.git
+[submodule "sxr-core"]
+	path = sxr-core
+	url = git@github.com:adrian1703/sxr-core.git
