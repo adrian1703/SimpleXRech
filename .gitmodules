@@ -4,3 +4,6 @@
 [submodule "sxr-frontend"]
 	path = sxr-frontend
 	url = git@github.com:adrian1703/sxr-frontend.git
+[submodule "sxr-resourceparser"]
+	path = sxr-resourceparser
+	url = git@github.com:adrian1703/sxr-resourceparser.git
