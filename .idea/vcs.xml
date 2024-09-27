@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sxr-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sxr-core" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sxr-frontend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sxr-resourceparser" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sxr-resourceparser/resources/peppol-bis-invoice-3" vcs="Git" />
